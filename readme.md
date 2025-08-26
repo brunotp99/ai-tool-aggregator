@@ -25,3 +25,8 @@ Hello!
 - **Tool name**: Redis: What It Is, What It Does, and Why You Should Care | Backendless
 - **Tool Description**: Redis is an open source in-memory data store that can be used as a database, cache, or message broker. Redis also has some features that make it attractive for use as a database. Redis supports atomic operations, making it ideal for caching scenarios where you need fast access time. Redis is an open source in-memory data store that works really well as a cache or message broker. Redis is an open source in-memory data store that works really well as
 - **Tool Link**: https://backendless.com/redis-what-it-is-what-it-does-and-why-you-should-care/
+
+## redis 
+### What is Redis and how does it work Internally | by Ayush Saxena | Medium
+- **Tool Description**: Redis is designed specifically for speed. It’s an “in-memory” database, storing data right in your computer’s active memory (RAM) This makes retrieving data lightning-fast because it’s already in the workspace where your computer actively operates. The answer lies in how Redis does the job. Redis is designed specifically for speed. It’s an “in-memory” database, storing data right in your computer’s active memory (RAM). This makes retrieving data lightning-fast because
+- **Tool Link**: https://medium.com/@ayushsaxena823/what-is-redis-and-how-does-it-work-cfe2853eb9a9
