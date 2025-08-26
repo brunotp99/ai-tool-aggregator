@@ -20,3 +20,8 @@ Hello!
 - **Tool name**: Redis - Wikipedia
 - **Tool Description**: Redis is the most popular NoSQL database,[11][12][13] and one of the most popular databases overall. The project was developed and maintained by Salvatore Sanfilippo, starting in 2009.[15] Salvatore Sanfilippo left Redis as the maintainer in 2020. In 2021 Redis Labs dropped the Labs from its name and now is known simply as "Redis" Redis is tri-licensed beginning with version 8.0, with the GNU A
 - **Tool Link**: https://en.wikipedia.org/wiki/Redis
+
+## Redis 
+- **Tool name**: Redis: What It Is, What It Does, and Why You Should Care | Backendless
+- **Tool Description**: Redis is an open source in-memory data store that can be used as a database, cache, or message broker. Redis also has some features that make it attractive for use as a database. Redis supports atomic operations, making it ideal for caching scenarios where you need fast access time. Redis is an open source in-memory data store that works really well as a cache or message broker. Redis is an open source in-memory data store that works really well as
+- **Tool Link**: https://backendless.com/redis-what-it-is-what-it-does-and-why-you-should-care/
